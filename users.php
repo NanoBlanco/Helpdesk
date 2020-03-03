@@ -47,8 +47,8 @@ require "sidebar.php";
                     <div class="x_content">
                         <div class="table-responsive">
                         <!-- ajax -->
-                            <div id="resultados"></div><!-- Carga los datos ajax -->
-                            <div class='outer_div'></div><!-- Carga los datos ajax -->
+                        <div id="resultados"></div><!-- Carga los datos ajax -->
+                        <div class='outer_div'></div><!-- Carga los datos ajax -->
                         <!-- /ajax -->
                         </div>
                     </div>
